@@ -2,13 +2,13 @@
 
 I build **[induwara.lk](https://induwara.lk)** — a growing library of **free, no-signup** online tools & calculators for Sri Lanka.
 
-[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-333%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools)
+[![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=for-the-badge)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-359%2B-1f6feb?style=for-the-badge)](https://induwara.lk/tools)
 
 ---
 
 ### 🚀 What I'm building
 
-**[induwara.lk](https://induwara.lk)** — 333+ free, privacy-first tools that run in your browser, no account needed:
+**[induwara.lk](https://induwara.lk)** — 359+ free, privacy-first tools that run in your browser, no account needed:
 
 - 💰 **Finance** — Sri Lanka income tax, EPF/ETF, gratuity, loan EMI, stamp duty, VAT, fixed deposit
 - 🎓 **Education** — A/L Z-score, subject-combination tools
