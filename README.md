@@ -1,55 +1,111 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:1f6feb&height=190&section=header&text=Induwara%20Ashinsana&fontColor=ffffff&fontSize=46&desc=Builder%20of%20induwara.lk%20%E2%80%94%20875%2B%20free%20tools%20for%20Sri%20Lanka&descSize=17&descAlignY=64)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A2ea44f%2C100%3A1f6feb&height=220&section=header&text=Induwara%20Ashinsana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20tools%20that%20ship%20themselves&descSize=18&descAlignY=55" alt="Induwara Ashinsana — I build tools that ship themselves" width="100%" />
 
-[![Profile views](https://komarev.com/ghpvc/?username=IAshinsana&color=2ea44f&style=flat-square&label=Profile+views)](https://github.com/IAshinsana) [![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=flat-square)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-875%2B-1f6feb?style=flat-square)](https://induwara.lk/tools) [![Articles](https://img.shields.io/badge/Articles-203%2B-8957e5?style=flat-square)](https://induwara.lk/blog)
+<a href="https://induwara.lk"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=1F6FEB&center=true&vCenter=true&width=640&height=45&lines=550%2B+free+tools+for+Sri+Lanka;Shipped+by+an+autonomous+AI+pipeline;Free+%C2%B7+No+signup+%C2%B7+No+catch" alt="550+ free tools for Sri Lanka — shipped by an autonomous AI pipeline" /></a>
+
+<br/>
+<br/>
+
+**I run [induwara.lk](https://induwara.lk) — 550+ free, no-signup tools, calculators and APIs for Sri Lanka.**
+
+Most of them were built while I slept.
+
+<br/>
+
+<img src="https://img.shields.io/badge/free%20tools-550%2B-1f6feb?style=for-the-badge" alt="550+ free tools" />&nbsp;
+<img src="https://img.shields.io/badge/articles-180%2B-1f6feb?style=for-the-badge" alt="180+ articles" />&nbsp;
+<img src="https://img.shields.io/badge/signups%20required-0-2ea44f?style=for-the-badge" alt="0 signups required" />
+
+<br/>
+
+<a href="https://induwara.lk"><kbd>&nbsp;&nbsp;induwara.lk&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+<a href="https://induwara.lk/tools"><kbd>&nbsp;&nbsp;Browse the tools&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+<a href="https://induwara.lk/blog"><kbd>&nbsp;&nbsp;Read the blog&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+<a href="https://induwara.lk/developers"><kbd>&nbsp;&nbsp;Free API&nbsp;&nbsp;</kbd></a>
 
 </div>
 
-### 👋 Hi, I'm Induwara
+<br/>
 
-I build **[induwara.lk](https://induwara.lk)** — a growing library of **875+ free, no-signup** online tools, calculators and developer APIs for Sri Lanka, shipped continuously through an autonomous AI build pipeline I designed.
+> [!NOTE]
+> Quiet contribution graph, loud shipping schedule. The real work happens in an autonomous build pipeline on my server — it doesn't sign commits here, but everything it ships is public at [induwara.lk](https://induwara.lk).
 
-- 💰 **Finance** — income tax, EPF/ETF, gratuity, loan EMI, stamp duty, VAT, fixed deposit
-- 🎓 **Education** — A/L Z-score, subject-combination tools
-- 🧾 **Bills** — electricity & water bill calculators
-- 🪪 **Utility** — NIC decoder, land-area converter, working-days calculator
-- 💻 **Developer** — online Python · Java · C++ · SQL · TypeScript compilers + a free public API
-- 🔒 **Privacy** — end-to-end encrypted, self-destructing secret chat
-- 🤖 **AI** — free website builder (Opus plans, Sonnet builds), diagram & presentation makers
+<br/>
 
-👉 **Browse the full tool index:** [IAshinsana/induwara-lk-free-tools](https://github.com/IAshinsana/induwara-lk-free-tools)
+## What I ship
 
-### 🛠️ Tech I build with
+One site. 550+ tools. Instant, free, and none of them ask you to create an account.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+| Category | What's inside |
+|:--|:--|
+| 💰 **Finance** | Income tax, EPF/ETF, loan EMI, VAT — official rates, sources cited |
+| 🎓 **Education** | A/L Z-score and university admission tools |
+| ⚡ **Bills** | Electricity and water tariff calculators |
+| 🪪 **Utility** | NIC decoder and everyday lookups |
+| 💻 **Developer** | In-browser Python, Java, C++, SQL and TypeScript compilers, plus a [free public API](https://induwara.lk/developers) |
+| 🔒 **Privacy** | End-to-end encrypted, self-destructing secret chat |
+| 🤖 **AI** | Website builder, diagram maker, presentation maker |
 
-### 📊 GitHub stats
+Alongside the tools: **180+ published articles** explaining the numbers behind them.
+
+<br/>
+
+## How they ship themselves
+
+The interesting part isn't any single tool — it's the factory. I designed an autonomous, Claude-powered pipeline that proposes a tool worth building, writes the code, runs the full test gate, and deploys to production with zero downtime. Around the clock, zero-touch.
+
+```mermaid
+flowchart LR
+    A["💡 Ideate<br/>Claude proposes a tool"] --> B["🔧 Build<br/>data · component · page"]
+    B --> C{"🧪 Test gate<br/>typecheck · lint · build"}
+    C -->|pass| D["🚀 Publish<br/>zero-downtime deploy"]
+    C -->|"fail — flagged for review"| E["🚧 Benched"]
+    D -.->|"loops — no humans in it"| A
+```
+
+My job is the part the pipeline can't do: pick the direction, verify the math against official sources, and make the factory itself better.
+
+<br/>
+
+## Stack
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=IAshinsana&show_icons=true&hide_border=true&theme=github_dark&count_private=true) ![streak](https://github-readme-streak-stats.herokuapp.com/?user=IAshinsana&hide_border=true&theme=github-dark-blue)
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,sqlite" alt="Next.js, TypeScript, React, Tailwind CSS, Node.js, SQLite" />
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAshinsana&layout=compact&hide_border=true&theme=github_dark&langs_count=8)
+<br/>
+<br/>
 
-![trophies](https://github-profile-trophy.vercel.app/?username=IAshinsana&theme=gruvbox&no-frame=true&column=7&margin-w=8)
+<a href="https://induwara.lk/tools"><img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI (Anthropic)" /></a>
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=IAshinsana&theme=github-compact&hide_border=true&area=true)
+<sub>Claude isn't an assistant in this stack — it's the workforce.</sub>
 
 </div>
 
-### 🔓 Open-source projects
+Next.js front to back. TypeScript everywhere. SQLite for everything stateful.
 
-Selected tools are extracted as standalone, MIT-licensed repos:
+<br/>
+
+## Open source
 
 | Repo | What it is |
-|---|---|
-| [secret-chat](https://github.com/IAshinsana/secret-chat) | E2EE self-destructing chat — zero-knowledge architecture |
-| [one-time-secret](https://github.com/IAshinsana/one-time-secret) | Free Privnote alternative for sharing passwords |
-| [secret-file](https://github.com/IAshinsana/secret-file) | Self-destructing encrypted file share |
-| [sri-lanka-trip-planner](https://github.com/IAshinsana/sri-lanka-trip-planner) | Open data: 25 districts × 150 places + itinerary algorithm |
-| [sri-lanka-tax-calculator](https://github.com/IAshinsana/sri-lanka-tax-calculator) | Sri Lanka income tax math (2026 IRD brackets, cited) |
+|:--|:--|
+| 🗂️ [**induwara-lk-free-tools**](https://github.com/IAshinsana/induwara-lk-free-tools) | The living index of every tool on induwara.lk, synced from production. **Start here.** <br/><code>index</code> <code>showcase</code> <code>auto-updated</code> |
+| 💬 [**secret-chat**](https://github.com/IAshinsana/secret-chat) | E2EE self-destructing chat — the server only ever stores ciphertext. <br/><code>E2EE</code> <code>zero-knowledge</code> <code>self-destructing</code> |
+| 🔥 [**one-time-secret**](https://github.com/IAshinsana/one-time-secret) | Secrets that burn after one read. A Privnote alternative. <br/><code>encryption</code> <code>burn-after-reading</code> |
+| 📦 [**secret-file**](https://github.com/IAshinsana/secret-file) | Encrypted file sharing with the same burn-after-reading model. <br/><code>encryption</code> <code>file-sharing</code> |
+| 🗺️ [**sri-lanka-trip-planner**](https://github.com/IAshinsana/sri-lanka-trip-planner) | Open travel data: 25 districts × 150 places. <br/><code>open-data</code> <code>travel</code> |
+| 🧾 [**sri-lanka-tax-calculator**](https://github.com/IAshinsana/sri-lanka-tax-calculator) | Sri Lanka income tax with current IRD brackets — every rate cited. <br/><code>IRD-cited</code> <code>TypeScript</code> |
 
----
+<br/>
 
-<div align="center"><sub>⭐ Try the tools at <b><a href="https://induwara.lk">induwara.lk</a></b> — built in Sri Lanka 🇱🇰</sub></div>
+<div align="center">
+
+Built in Sri Lanka 🇱🇰 &nbsp;·&nbsp; Free for everyone
+
+[Website](https://induwara.lk) · [Blog](https://induwara.lk/blog) · [API](https://induwara.lk/developers) · [Tool index](https://github.com/IAshinsana/induwara-lk-free-tools)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A2ea44f%2C100%3A1f6feb&height=110&section=footer" alt="" width="100%" />
+
+</div>
