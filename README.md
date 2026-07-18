@@ -1,14 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:1f6feb&height=190&section=header&text=Induwara%20Ashinsana&fontColor=ffffff&fontSize=46&desc=Builder%20of%20induwara.lk%20%E2%80%94%20926%2B%20free%20tools%20for%20Sri%20Lanka&descSize=17&descAlignY=64)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:1f6feb&height=190&section=header&text=Induwara%20Ashinsana&fontColor=ffffff&fontSize=46&desc=Builder%20of%20induwara.lk%20%E2%80%94%20927%2B%20free%20tools%20for%20Sri%20Lanka&descSize=17&descAlignY=64)
 
-[![Profile views](https://komarev.com/ghpvc/?username=IAshinsana&color=2ea44f&style=flat-square&label=Profile+views)](https://github.com/IAshinsana) [![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=flat-square)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-926%2B-1f6feb?style=flat-square)](https://induwara.lk/tools) [![Articles](https://img.shields.io/badge/Articles-204%2B-8957e5?style=flat-square)](https://induwara.lk/blog)
+[![Profile views](https://komarev.com/ghpvc/?username=IAshinsana&color=2ea44f&style=flat-square&label=Profile+views)](https://github.com/IAshinsana) [![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=flat-square)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-927%2B-1f6feb?style=flat-square)](https://induwara.lk/tools) [![Articles](https://img.shields.io/badge/Articles-204%2B-8957e5?style=flat-square)](https://induwara.lk/blog)
 
 </div>
 
 ### 👋 Hi, I'm Induwara
 
-I build **[induwara.lk](https://induwara.lk)** — a growing library of **926+ free, no-signup** online tools, calculators and developer APIs for Sri Lanka, shipped continuously through an autonomous AI build pipeline I designed.
+I build **[induwara.lk](https://induwara.lk)** — a growing library of **927+ free, no-signup** online tools, calculators and developer APIs for Sri Lanka, shipped continuously through an autonomous AI build pipeline I designed.
 
 - 💰 **Finance** — income tax, EPF/ETF, gratuity, loan EMI, stamp duty, VAT, fixed deposit
 - 🎓 **Education** — A/L Z-score, subject-combination tools
