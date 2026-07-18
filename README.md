@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A2ea44f%2C100%3A1f6feb&height=220&section=header&text=Induwara%20Ashinsana&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=I%20build%20tools%20that%20ship%20themselves&descSize=18&descAlignY=55" alt="Induwara Ashinsana — I build tools that ship themselves" width="100%" />
+<img src="https://raw.githubusercontent.com/IAshinsana/IAshinsana/main/assets/header.svg" alt="Induwara Ashinsana — I build tools that ship themselves" width="100%" />
 
 <a href="https://induwara.lk"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IAshinsana/IAshinsana/main/assets/tagline-light.svg">
@@ -109,6 +109,6 @@ Built in Sri Lanka 🇱🇰 &nbsp;·&nbsp; Free for everyone
 
 [Website](https://induwara.lk) · [Blog](https://induwara.lk/blog) · [API](https://induwara.lk/developers) · [Tool index](https://github.com/IAshinsana/induwara-lk-free-tools)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A2ea44f%2C100%3A1f6feb&height=110&section=footer" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/IAshinsana/IAshinsana/main/assets/footer.svg" alt="" width="100%" />
 
 </div>
