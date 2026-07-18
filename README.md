@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A2ea44f%2C100%3A1f6feb&height=220&section=header&text=Induwara%20Ashinsana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20tools%20that%20ship%20themselves&descSize=18&descAlignY=55" alt="Induwara Ashinsana — I build tools that ship themselves" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A2ea44f%2C100%3A1f6feb&height=220&section=header&text=Induwara%20Ashinsana&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=I%20build%20tools%20that%20ship%20themselves&descSize=18&descAlignY=55" alt="Induwara Ashinsana — I build tools that ship themselves" width="100%" />
 
-<a href="https://induwara.lk"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=1F6FEB&center=true&vCenter=true&width=640&height=45&lines=550%2B+free+tools+for+Sri+Lanka;Shipped+by+an+autonomous+AI+pipeline;Free+%C2%B7+No+signup+%C2%B7+No+catch" alt="550+ free tools for Sri Lanka — shipped by an autonomous AI pipeline" /></a>
+<a href="https://induwara.lk"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IAshinsana/IAshinsana/main/assets/tagline-light.svg">
+  <img src="https://raw.githubusercontent.com/IAshinsana/IAshinsana/main/assets/tagline-dark.svg" alt="550+ free tools · no signup · shipped by an autonomous pipeline" width="640" height="45" />
+</picture></a>
 
 <br/>
 <br/>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="45" viewBox="0 0 640 45" role="img" aria-label="550+ free tools, no signup, shipped by an autonomous pipeline">
+  <style>
+    .line { font: 600 15px ui-monospace, "SF Mono", "Cascadia Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .accent { fill: #2ea44f; }
+    .body { fill: #1f6feb; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    .caret { animation: blink 1.2s steps(1) infinite; }
+  </style>
+  <text class="line" x="320" y="28" text-anchor="middle"><tspan class="accent">&gt;</tspan><tspan class="body" dx="8">550+ free tools · no signup · shipped by an autonomous pipeline</tspan><tspan class="caret accent" dx="4">▌</tspan></text>
+</svg>
