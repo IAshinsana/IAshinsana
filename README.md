@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:1f6feb&height=190&section=header&text=Induwara%20Ashinsana&fontColor=ffffff&fontSize=46&desc=Builder%20of%20induwara.lk%20%E2%80%94%20927%2B%20free%20tools%20for%20Sri%20Lanka&descSize=17&descAlignY=64)
 
-[![Profile views](https://komarev.com/ghpvc/?username=IAshinsana&color=2ea44f&style=flat-square&label=Profile+views)](https://github.com/IAshinsana) [![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=flat-square)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-927%2B-1f6feb?style=flat-square)](https://induwara.lk/tools) [![Articles](https://img.shields.io/badge/Articles-208%2B-8957e5?style=flat-square)](https://induwara.lk/blog)
+[![Profile views](https://komarev.com/ghpvc/?username=IAshinsana&color=2ea44f&style=flat-square&label=Profile+views)](https://github.com/IAshinsana) [![Website](https://img.shields.io/badge/🌐_induwara.lk-Visit-2ea44f?style=flat-square)](https://induwara.lk) [![Free tools](https://img.shields.io/badge/Free_tools-927%2B-1f6feb?style=flat-square)](https://induwara.lk/tools) [![Articles](https://img.shields.io/badge/Articles-210%2B-8957e5?style=flat-square)](https://induwara.lk/blog)
 
 </div>
 
