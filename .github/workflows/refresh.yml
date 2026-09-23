@@ -1,0 +1,53 @@
+name: Refresh profile assets
+
+# Regenerates every SVG in assets/ from the GitHub API and commits the ones
+# that actually changed. Nothing on the profile is fetched from a third-party
+# stats service at page-load time, so the README cannot break when someone
+# else's free tier goes down.
+
+on:
+  schedule:
+    # Mondays, 04:17 UTC. An odd minute keeps us off GitHub's busiest tick.
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile-assets
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Regenerate assets
+        env:
+          # Injected by Actions — no personal access token needed. It can read
+          # public profile data, which is all these cards ever show.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-assets.mjs
+
+      - name: Commit changed assets
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- assets; then
+            echo "Assets are byte-identical — nothing to commit."
+            exit 0
+          fi
+          git diff --stat -- assets
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore(assets): refresh profile cards from the GitHub API"
+          git push
