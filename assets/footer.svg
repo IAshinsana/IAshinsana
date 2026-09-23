@@ -1,22 +1,37 @@
-<svg width="854" height="110" viewBox="0 0 854 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="96" viewBox="0 0 854 96"
+     role="img" aria-label="Built in Sri Lanka — free tools, no signup, no paywall — induwara.lk">
+  <title>Built in Sri Lanka — induwara.lk</title>
+  
   <defs>
-    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2ea44f"/>
-      <stop offset="100%" stop-color="#1f6feb"/>
+    <linearGradient id="ft-panel" x1="0" y1="0" x2="0.45" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="1" stop-color="#0E1626"/>
     </linearGradient>
+    <linearGradient id="ft-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3FB950"/>
+      <stop offset="0.5" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <linearGradient id="ft-sheen" x1="0" y1="0" x2="1" y2="0" gradientTransform="translate(-1 0)">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0" dur="4.5s" begin="0s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="ft-clip"><rect x="0" y="0" width="854" height="96" rx="16"/></clipPath>
   </defs>
-  <g transform="rotate(180 427 55)">
-    <path d="M0 0L 0 30Q 213.5 70 427 40T 854 65L 854 0 Z" fill="url(#linear)" opacity="0.4">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite"
-        keyTimes="0;0.333;0.667;1" calcMode="spline"
-        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s"
-        values="M0 0L 0 30Q 213.5 70 427 40T 854 65L 854 0 Z;M0 0L 0 55Q 213.5 70 427 50T 854 40L 854 0 Z;M0 0L 0 75Q 213.5 45 427 75T 854 40L 854 0 Z;M0 0L 0 30Q 213.5 70 427 40T 854 65L 854 0 Z"/>
-    </path>
-    <path d="M0 0L 0 45Q 213.5 90 427 60T 854 70L 854 0 Z" fill="url(#linear)" opacity="0.4">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite"
-        keyTimes="0;0.333;0.667;1" calcMode="spline"
-        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s"
-        values="M0 0L 0 45Q 213.5 90 427 60T 854 70L 854 0 Z;M0 0L 0 60Q 213.5 30 427 30T 854 50L 854 0 Z;M0 0L 0 55Q 213.5 35 427 60T 854 75L 854 0 Z;M0 0L 0 45Q 213.5 90 427 60T 854 70L 854 0 Z"/>
-    </path>
+  <rect x="0.5" y="0.5" width="853" height="95" rx="15.5"
+        fill="url(#ft-panel)" stroke="#1E293F"/>
+  <g clip-path="url(#ft-clip)">
+    <rect x="0" y="0" width="854" height="3" fill="url(#ft-accent)"/>
+    <rect x="0" y="0" width="854" height="3" fill="url(#ft-sheen)"/>
   </g>
+  <text x="427" y="46" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16.5"
+        font-weight="600" fill="#E8EEF9">Built in Sri Lanka — free tools, no signup, no paywall.</text>
+  <text x="427" y="70" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13"
+        fill="#A3B1C9">induwara.lk</text>
+  <rect x="0" y="93" width="854" height="3" fill="url(#ft-accent)"/>
+  <rect x="0" y="93" width="854" height="3" fill="url(#ft-sheen)"/>
 </svg>

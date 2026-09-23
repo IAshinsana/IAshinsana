@@ -1,28 +1,95 @@
-<svg width="854" height="220" viewBox="0 0 854 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Induwara Ashinsana — I build tools that ship themselves">
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="208" viewBox="0 0 854 208"
+     role="img" aria-label="Induwara Ashinsana — I build tools that ship themselves">
+  <title>Induwara Ashinsana — I build tools that ship themselves</title>
+  
   <defs>
-    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2ea44f"/>
-      <stop offset="100%" stop-color="#1f6feb"/>
+    <linearGradient id="hd-panel" x1="0" y1="0" x2="0.45" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="1" stop-color="#0E1626"/>
+    </linearGradient>
+    <linearGradient id="hd-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3FB950"/>
+      <stop offset="0.5" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <linearGradient id="hd-sheen" x1="0" y1="0" x2="1" y2="0" gradientTransform="translate(-1 0)">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0" dur="4.5s" begin="0s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="hd-clip"><rect x="0" y="0" width="854" height="208" rx="16"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="853" height="207" rx="15.5"
+        fill="url(#hd-panel)" stroke="#1E293F"/>
+  <g clip-path="url(#hd-clip)">
+    <rect x="0" y="0" width="854" height="3" fill="url(#hd-accent)"/>
+    <rect x="0" y="0" width="854" height="3" fill="url(#hd-sheen)"/>
+  </g>
+  <defs>
+    <filter id="hd-blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+    <linearGradient id="hd-mono" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3FB950"/>
+      <stop offset="1" stop-color="#A371F7"/>
     </linearGradient>
   </defs>
-  <g>
-    <path d="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z" fill="url(#linear)" opacity="0.4">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite"
-        keyTimes="0;0.333;0.667;1" calcMode="spline"
-        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s"
-        values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z"/>
-    </path>
-    <path d="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z" fill="url(#linear)" opacity="0.4">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite"
-        keyTimes="0;0.333;0.667;1" calcMode="spline"
-        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s"
-        values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z"/>
-    </path>
+
+  <!-- Aurora. Base positions are the finished composition; the drift is a slow
+       nudge around them, so a frozen frame is still the intended picture. -->
+  <g clip-path="url(#hd-clip)" filter="url(#hd-blur)">
+    <ellipse cx="120" cy="56" rx="150" ry="96" fill="#3FB950" opacity="0.30">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 26 14; 0 0" dur="17s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="470" cy="210" rx="190" ry="104" fill="#2F81F7" opacity="0.26">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -30 -12; 0 0" dur="21s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="790" cy="40" rx="150" ry="110" fill="#A371F7" opacity="0.24">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -18 22; 0 0" dur="19s" repeatCount="indefinite"/>
+    </ellipse>
   </g>
-  <text text-anchor="middle" x="427" y="79" fill="#ffffff"
-    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-    font-size="48" font-weight="700">Induwara Ashinsana</text>
-  <text text-anchor="middle" x="427" y="121" fill="#ffffff" opacity="0.92"
-    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-    font-size="18" font-weight="500">I build tools that ship themselves</text>
+  <g clip-path="url(#hd-clip)">
+    <rect x="0" y="0" width="854" height="3" fill="url(#hd-accent)"/>
+    <rect x="0" y="0" width="854" height="3" fill="url(#hd-sheen)"/>
+  </g>
+
+  <text x="32" y="60" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700"
+        letter-spacing="2.2" fill="#6B7C99">BUILDING IN PUBLIC FROM SRI LANKA</text>
+
+  <text x="32" y="108" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="43" font-weight="700"
+        letter-spacing="-0.6" fill="#FFFFFF">Induwara Ashinsana</text>
+
+  <text x="32" y="137" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16.5" fill="#A3B1C9">I build tools that ship themselves.</text>
+  
+    <rect x="32" y="158" width="127.4" height="30" rx="15" fill="#0B1322"
+          stroke="#1E293F"/>
+    <text x="95.7" y="177.5" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif"
+          font-size="12.5" fill="#A3B1C9">940 free tools</text>
+    <rect x="169.4" y="158" width="113.2" height="30" rx="15" fill="#0B1322"
+          stroke="#1E293F"/>
+    <text x="226" y="177.5" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif"
+          font-size="12.5" fill="#A3B1C9">412 articles</text>
+    <rect x="292.6" y="158" width="177.1" height="30" rx="15" fill="#0B1322"
+          stroke="#1E293F"/>
+    <text x="381.2" y="177.5" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif"
+          font-size="12.5" fill="#A3B1C9">no signup, no paywall</text>
+
+  <!-- Monogram. The ring is fully drawn at rest; only its rotation animates. -->
+  <g>
+    <circle cx="762" cy="104" r="63" fill="none" stroke="#1E293F" stroke-width="1.5"
+            stroke-dasharray="5 9" opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate"
+        values="0 762 104; 360 762 104" dur="44s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="714" y="56" width="96" height="96" rx="26" fill="#0B1322"
+          stroke="url(#hd-mono)" stroke-width="2"/>
+    <text x="762" y="119" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="40"
+          font-weight="700" fill="url(#hd-mono)">IA</text>
+  </g>
 </svg>

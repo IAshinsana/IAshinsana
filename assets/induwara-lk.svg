@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="288" viewBox="0 0 854 288"
+     role="img" aria-label="induwara.lk: 940 live tools, 412 articles, 22.8K Google clicks and 1.14M impressions in 28 days">
+  <title>induwara.lk — free tools for Sri Lanka</title>
+  
+  <defs>
+    <linearGradient id="sc-panel" x1="0" y1="0" x2="0.45" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="1" stop-color="#0E1626"/>
+    </linearGradient>
+    <linearGradient id="sc-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3FB950"/>
+      <stop offset="0.5" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <linearGradient id="sc-sheen" x1="0" y1="0" x2="1" y2="0" gradientTransform="translate(-1 0)">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0" dur="4.5s" begin="0s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="sc-clip"><rect x="0" y="0" width="854" height="288" rx="16"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="853" height="287" rx="15.5"
+        fill="url(#sc-panel)" stroke="#1E293F"/>
+  <g clip-path="url(#sc-clip)">
+    <rect x="0" y="0" width="854" height="3" fill="url(#sc-accent)"/>
+    <rect x="0" y="0" width="854" height="3" fill="url(#sc-sheen)"/>
+  </g>
+  
+  <text x="32" y="38" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700"
+        letter-spacing="1.9" fill="#6B7C99">INDUWARA.LK — FREE TOOLS FOR SRI LANKA</text><text x="822" y="38" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12"
+             fill="#6B7C99">figures as of 23 Sep 2026</text>
+  <defs>
+    <linearGradient id="sc-bars" x1="36" y1="0" x2="818" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3FB950"/>
+      <stop offset="0.55" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <!-- Scan highlight. Parked off the left edge at rest, so a frozen frame
+         shows the bars exactly as the data draws them. -->
+    <clipPath id="sc-scan">
+      <rect x="-84" y="152" width="110" height="100">
+        <animate attributeName="x" values="-84;818" dur="3.8s"
+                 begin="0.5s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  
+  <clipPath id="sc-wipe0">
+    <rect x="83.41" y="56" width="0" height="54">
+      <animate attributeName="width" values="0;94.67999999999999" dur="0.85s"
+               begin="0.15s" fill="freeze" repeatCount="1"/>
+    </rect>
+  </clipPath>
+  <text x="130.75" y="96" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">940</text>
+  <text x="130.75" y="96" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="url(#sc-accent)" clip-path="url(#sc-wipe0)"
+        style="font-variant-numeric:tabular-nums">940</text>
+  <text x="130.75" y="120" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
+        letter-spacing="0.4" fill="#A3B1C9">live tools</text>
+  <clipPath id="sc-wipe1">
+    <rect x="280.91" y="56" width="0" height="54">
+      <animate attributeName="width" values="0;94.67999999999999" dur="0.85s"
+               begin="0.27s" fill="freeze" repeatCount="1"/>
+    </rect>
+  </clipPath>
+  <text x="328.25" y="96" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">412</text>
+  <text x="328.25" y="96" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="url(#sc-accent)" clip-path="url(#sc-wipe1)"
+        style="font-variant-numeric:tabular-nums">412</text>
+  <text x="328.25" y="120" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
+        letter-spacing="0.4" fill="#A3B1C9">articles</text>
+  <clipPath id="sc-wipe2">
+    <rect x="454.85" y="56" width="0" height="54">
+      <animate attributeName="width" values="0;141.8" dur="0.85s"
+               begin="0.39s" fill="freeze" repeatCount="1"/>
+    </rect>
+  </clipPath>
+  <text x="525.75" y="96" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">22.8K</text>
+  <text x="525.75" y="96" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="url(#sc-accent)" clip-path="url(#sc-wipe2)"
+        style="font-variant-numeric:tabular-nums">22.8K</text>
+  <text x="525.75" y="120" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
+        letter-spacing="0.4" fill="#A3B1C9">Google clicks / 28d</text>
+  <clipPath id="sc-wipe3">
+    <rect x="652.35" y="56" width="0" height="54">
+      <animate attributeName="width" values="0;141.8" dur="0.85s"
+               begin="0.51s" fill="freeze" repeatCount="1"/>
+    </rect>
+  </clipPath>
+  <text x="723.25" y="96" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">1.14M</text>
+  <text x="723.25" y="96" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="url(#sc-accent)" clip-path="url(#sc-wipe3)"
+        style="font-variant-numeric:tabular-nums">1.14M</text>
+  <text x="723.25" y="120" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
+        letter-spacing="0.4" fill="#A3B1C9">impressions / 28d</text>
+  <line x1="32" y1="132" x2="822" y2="132" stroke="#161F33"/>
+
+  <rect x="40" y="223.7" width="19.9" height="24.3" rx="4" fill="url(#sc-bars)"><title>2026-08-24: 908 clicks</title></rect><rect x="67.9" y="225.6" width="19.9" height="22.4" rx="4" fill="url(#sc-bars)"><title>2026-08-25: 835 clicks</title></rect><rect x="95.9" y="231.8" width="19.9" height="16.2" rx="4" fill="url(#sc-bars)"><title>2026-08-26: 605 clicks</title></rect><rect x="123.8" y="230.9" width="19.9" height="17.1" rx="4" fill="url(#sc-bars)"><title>2026-08-27: 638 clicks</title></rect><rect x="151.7" y="228.4" width="19.9" height="19.6" rx="4" fill="url(#sc-bars)"><title>2026-08-28: 731 clicks</title></rect><rect x="179.6" y="229.6" width="19.9" height="18.4" rx="4" fill="url(#sc-bars)"><title>2026-08-29: 687 clicks</title></rect><rect x="207.6" y="227.1" width="19.9" height="20.9" rx="4" fill="url(#sc-bars)"><title>2026-08-30: 781 clicks</title></rect><rect x="235.5" y="225.2" width="19.9" height="22.8" rx="4" fill="url(#sc-bars)"><title>2026-08-31: 851 clicks</title></rect><rect x="263.4" y="226.1" width="19.9" height="21.9" rx="4" fill="url(#sc-bars)"><title>2026-09-01: 816 clicks</title></rect><rect x="291.4" y="156" width="19.9" height="92" rx="4" fill="url(#sc-bars)"><title>2026-09-02: 3,434 clicks</title></rect><rect x="319.3" y="220.8" width="19.9" height="27.2" rx="4" fill="url(#sc-bars)"><title>2026-09-03: 1,017 clicks</title></rect><rect x="347.2" y="228.2" width="19.9" height="19.8" rx="4" fill="url(#sc-bars)"><title>2026-09-04: 740 clicks</title></rect><rect x="375.1" y="234" width="19.9" height="14" rx="4" fill="url(#sc-bars)"><title>2026-09-05: 523 clicks</title></rect><rect x="403.1" y="230.5" width="19.9" height="17.5" rx="4" fill="url(#sc-bars)"><title>2026-09-06: 655 clicks</title></rect><rect x="431" y="227.3" width="19.9" height="20.7" rx="4" fill="url(#sc-bars)"><title>2026-09-07: 773 clicks</title></rect><rect x="458.9" y="230.2" width="19.9" height="17.8" rx="4" fill="url(#sc-bars)"><title>2026-09-08: 665 clicks</title></rect><rect x="486.9" y="229.1" width="19.9" height="18.9" rx="4" fill="url(#sc-bars)"><title>2026-09-09: 704 clicks</title></rect><rect x="514.8" y="228.6" width="19.9" height="19.4" rx="4" fill="url(#sc-bars)"><title>2026-09-10: 725 clicks</title></rect><rect x="542.7" y="230.6" width="19.9" height="17.4" rx="4" fill="url(#sc-bars)"><title>2026-09-11: 649 clicks</title></rect><rect x="570.6" y="232.8" width="19.9" height="15.2" rx="4" fill="url(#sc-bars)"><title>2026-09-12: 568 clicks</title></rect><rect x="598.6" y="230.3" width="19.9" height="17.7" rx="4" fill="url(#sc-bars)"><title>2026-09-13: 659 clicks</title></rect><rect x="626.5" y="228" width="19.9" height="20" rx="4" fill="url(#sc-bars)"><title>2026-09-14: 747 clicks</title></rect><rect x="654.4" y="227.9" width="19.9" height="20.1" rx="4" fill="url(#sc-bars)"><title>2026-09-15: 750 clicks</title></rect><rect x="682.4" y="227.9" width="19.9" height="20.1" rx="4" fill="url(#sc-bars)"><title>2026-09-16: 751 clicks</title></rect><rect x="710.3" y="226.2" width="19.9" height="21.8" rx="4" fill="url(#sc-bars)"><title>2026-09-17: 813 clicks</title></rect><rect x="738.2" y="231" width="19.9" height="17" rx="4" fill="url(#sc-bars)"><title>2026-09-18: 636 clicks</title></rect><rect x="766.1" y="233.5" width="19.9" height="14.5" rx="4" fill="url(#sc-bars)"><title>2026-09-19: 543 clicks</title></rect><rect x="794.1" y="230.7" width="19.9" height="17.3" rx="4" fill="url(#sc-bars)"><title>2026-09-20: 645 clicks</title></rect>
+  <g clip-path="url(#sc-scan)"><rect x="40" y="223.7" width="19.9" height="24.3" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-08-24: 908 clicks</title></rect><rect x="67.9" y="225.6" width="19.9" height="22.4" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-08-25: 835 clicks</title></rect><rect x="95.9" y="231.8" width="19.9" height="16.2" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-08-26: 605 clicks</title></rect><rect x="123.8" y="230.9" width="19.9" height="17.1" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-08-27: 638 clicks</title></rect><rect x="151.7" y="228.4" width="19.9" height="19.6" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-08-28: 731 clicks</title></rect><rect x="179.6" y="229.6" width="19.9" height="18.4" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-08-29: 687 clicks</title></rect><rect x="207.6" y="227.1" width="19.9" height="20.9" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-08-30: 781 clicks</title></rect><rect x="235.5" y="225.2" width="19.9" height="22.8" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-08-31: 851 clicks</title></rect><rect x="263.4" y="226.1" width="19.9" height="21.9" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-01: 816 clicks</title></rect><rect x="291.4" y="156" width="19.9" height="92" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-02: 3,434 clicks</title></rect><rect x="319.3" y="220.8" width="19.9" height="27.2" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-03: 1,017 clicks</title></rect><rect x="347.2" y="228.2" width="19.9" height="19.8" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-04: 740 clicks</title></rect><rect x="375.1" y="234" width="19.9" height="14" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-05: 523 clicks</title></rect><rect x="403.1" y="230.5" width="19.9" height="17.5" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-06: 655 clicks</title></rect><rect x="431" y="227.3" width="19.9" height="20.7" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-07: 773 clicks</title></rect><rect x="458.9" y="230.2" width="19.9" height="17.8" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-08: 665 clicks</title></rect><rect x="486.9" y="229.1" width="19.9" height="18.9" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-09: 704 clicks</title></rect><rect x="514.8" y="228.6" width="19.9" height="19.4" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-10: 725 clicks</title></rect><rect x="542.7" y="230.6" width="19.9" height="17.4" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-11: 649 clicks</title></rect><rect x="570.6" y="232.8" width="19.9" height="15.2" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-12: 568 clicks</title></rect><rect x="598.6" y="230.3" width="19.9" height="17.7" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-13: 659 clicks</title></rect><rect x="626.5" y="228" width="19.9" height="20" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-14: 747 clicks</title></rect><rect x="654.4" y="227.9" width="19.9" height="20.1" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-15: 750 clicks</title></rect><rect x="682.4" y="227.9" width="19.9" height="20.1" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-16: 751 clicks</title></rect><rect x="710.3" y="226.2" width="19.9" height="21.8" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-17: 813 clicks</title></rect><rect x="738.2" y="231" width="19.9" height="17" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-18: 636 clicks</title></rect><rect x="766.1" y="233.5" width="19.9" height="14.5" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-19: 543 clicks</title></rect><rect x="794.1" y="230.7" width="19.9" height="17.3" rx="4" fill="#FFFFFF" opacity="0.3"><title>2026-09-20: 645 clicks</title></rect></g>
+  <line x1="36" y1="228.5" x2="818" y2="228.5" stroke="#6B7C99"
+        stroke-width="1" stroke-dasharray="3 5"/>
+  <line x1="36" y1="248" x2="818" y2="248" stroke="#161F33"/>
+
+  <line x1="301.3" y1="160" x2="301.3" y2="154" stroke="#6B7C99"/>
+  <text x="321.3" y="166" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5"
+        fill="#A3B1C9">peak 3,434 clicks in one day</text>
+  <line x1="666" y1="162" x2="680" y2="162"
+        stroke="#6B7C99" stroke-width="1" stroke-dasharray="3 5"/>
+  <text x="818" y="166" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5"
+        fill="#6B7C99">median 728 clicks/day</text>
+
+  <text x="32" y="270" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#6B7C99">Organic Google clicks per day, 24 Aug 2026 to 20 Sep 2026 · Search Console · 1,264 pages drew impressions · avg position 7.1.</text>
+</svg>

@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="45" viewBox="0 0 640 45" role="img" aria-label="550+ free tools, no signup, shipped by an autonomous pipeline">
-  <style>
-    .line { font: 600 15px ui-monospace, "SF Mono", "Cascadia Mono", Menlo, Consolas, "Liberation Mono", monospace; }
-    .accent { fill: #3fb950; }
-    .body { fill: #4493f8; }
-    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
-    .caret { animation: blink 1.2s steps(1) infinite; }
-  </style>
-  <text class="line" x="320" y="28" text-anchor="middle"><tspan class="accent">&gt;</tspan><tspan class="body" dx="8">550+ free tools · no signup · shipped by an autonomous pipeline</tspan><tspan class="caret accent" dx="4">▌</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="44" viewBox="0 0 720 44"
+     role="img" aria-label="940 free tools · no signup · shipped by an autonomous pipeline">
+  <title>940 free tools · no signup · shipped by an autonomous pipeline</title>
+  <text x="360" y="28" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600">
+    <tspan fill="#3FB950">&gt;</tspan><tspan fill="#79C0FF" dx="8">940 free tools · no signup · shipped by an autonomous pipeline</tspan><tspan fill="#3FB950" dx="4">&#9612;<animate
+      attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.49;0.5;0.99;1"
+      dur="1.2s" calcMode="discrete" repeatCount="indefinite"/></tspan>
+  </text>
 </svg>

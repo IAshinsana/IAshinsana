@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="168" viewBox="0 0 854 168"
+     role="img" aria-label="GitHub: 13 public repos, 203 contributions in the last year, 5 followers, 3 stars">
+  <title>GitHub — @IAshinsana</title>
+  
+  <defs>
+    <linearGradient id="st-panel" x1="0" y1="0" x2="0.45" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="1" stop-color="#0E1626"/>
+    </linearGradient>
+    <linearGradient id="st-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3FB950"/>
+      <stop offset="0.5" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <linearGradient id="st-sheen" x1="0" y1="0" x2="1" y2="0" gradientTransform="translate(-1 0)">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0" dur="4.5s" begin="0s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="st-clip"><rect x="0" y="0" width="854" height="168" rx="16"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="853" height="167" rx="15.5"
+        fill="url(#st-panel)" stroke="#1E293F"/>
+  <g clip-path="url(#st-clip)">
+    <rect x="0" y="0" width="854" height="3" fill="url(#st-accent)"/>
+    <rect x="0" y="0" width="854" height="3" fill="url(#st-sheen)"/>
+  </g>
+  
+  <text x="32" y="38" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700"
+        letter-spacing="1.9" fill="#6B7C99">GITHUB — @IASHINSANA</text><text x="822" y="38" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12"
+             fill="#6B7C99">regenerated 23 Sep 2026</text>
+  <line x1="229.5" y1="62" x2="229.5" y2="130"
+               stroke="#161F33" stroke-width="1"/><line x1="427" y1="62" x2="427" y2="130"
+               stroke="#161F33" stroke-width="1"/><line x1="624.5" y1="62" x2="624.5" y2="130"
+               stroke="#161F33" stroke-width="1"/>
+  
+  <clipPath id="st-wipe0">
+    <rect x="95.19" y="64" width="0" height="54">
+      <animate attributeName="width" values="0;71.12" dur="0.85s"
+               begin="0.15s" fill="freeze" repeatCount="1"/>
+    </rect>
+  </clipPath>
+  <text x="130.75" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">13</text>
+  <text x="130.75" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="url(#st-accent)" clip-path="url(#st-wipe0)"
+        style="font-variant-numeric:tabular-nums">13</text>
+  <text x="130.75" y="128" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
+        letter-spacing="0.4" fill="#A3B1C9">public repos</text>
+  <clipPath id="st-wipe1">
+    <rect x="280.91" y="64" width="0" height="54">
+      <animate attributeName="width" values="0;94.67999999999999" dur="0.85s"
+               begin="0.27s" fill="freeze" repeatCount="1"/>
+    </rect>
+  </clipPath>
+  <text x="328.25" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">203</text>
+  <text x="328.25" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="url(#st-accent)" clip-path="url(#st-wipe1)"
+        style="font-variant-numeric:tabular-nums">203</text>
+  <text x="328.25" y="128" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
+        letter-spacing="0.4" fill="#A3B1C9">contributions / year</text>
+  <clipPath id="st-wipe2">
+    <rect x="501.97" y="64" width="0" height="54">
+      <animate attributeName="width" values="0;47.56" dur="0.85s"
+               begin="0.39s" fill="freeze" repeatCount="1"/>
+    </rect>
+  </clipPath>
+  <text x="525.75" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">5</text>
+  <text x="525.75" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="url(#st-accent)" clip-path="url(#st-wipe2)"
+        style="font-variant-numeric:tabular-nums">5</text>
+  <text x="525.75" y="128" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
+        letter-spacing="0.4" fill="#A3B1C9">followers</text>
+  <clipPath id="st-wipe3">
+    <rect x="699.47" y="64" width="0" height="54">
+      <animate attributeName="width" values="0;47.56" dur="0.85s"
+               begin="0.51s" fill="freeze" repeatCount="1"/>
+    </rect>
+  </clipPath>
+  <text x="723.25" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">3</text>
+  <text x="723.25" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
+        font-weight="700" fill="url(#st-accent)" clip-path="url(#st-wipe3)"
+        style="font-variant-numeric:tabular-nums">3</text>
+  <text x="723.25" y="128" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
+        letter-spacing="0.4" fill="#A3B1C9">stars</text>
+  <text x="32" y="152" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#6B7C99">Counted straight from the GitHub REST and GraphQL APIs by scripts/generate-assets.mjs — no third-party widget, no estimate.</text>
+</svg>
