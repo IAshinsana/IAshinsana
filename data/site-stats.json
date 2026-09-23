@@ -1,0 +1,20 @@
+{
+  "_comment": "Product numbers for induwara.lk. Not fetchable from GitHub Actions (the site DB is private), so they are committed here and refreshed by hand from the site's own database + the Google Search Console API mirror. Every figure is rounded DOWN when displayed. Keep `as_of` honest - the cards print it.",
+  "as_of": "2026-09-23",
+  "source": "induwara.lk SQLite (tools, blog_posts) + Google Search Console API mirror (gsc_analytics_daily, country='*')",
+  "site": "induwara.lk",
+  "tools_live": 940,
+  "articles": 412,
+  "window_days": 28,
+  "window_start": "2026-08-24",
+  "window_end": "2026-09-20",
+  "clicks_28d": 22849,
+  "impressions_28d": 1149243,
+  "median_daily_clicks": 728,
+  "pages_with_impressions_28d": 1264,
+  "avg_position": 7.1,
+  "daily_clicks": [
+    908, 835, 605, 638, 731, 687, 781, 851, 816, 3434, 1017, 740, 523, 655,
+    773, 665, 704, 725, 649, 568, 659, 747, 750, 751, 813, 636, 543, 645
+  ]
+}
