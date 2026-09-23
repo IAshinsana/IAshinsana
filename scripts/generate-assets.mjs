@@ -74,6 +74,13 @@ const esc = (s) =>
 
 const r1 = (n) => Math.round(n * 10) / 10;
 
+/**
+ * One decimal, always rounded DOWN. Used for anything the reader could take as
+ * a claim about size or share, so a percentage can never be overstated by the
+ * rounding alone. (r1 stays for pure geometry, where half-up is fine.)
+ */
+const floor1 = (n) => (Math.floor(n * 10) / 10).toFixed(1);
+
 
 /** Group digits, never rounding up. */
 const group = (n) => Math.floor(n).toLocaleString("en-US");
@@ -335,12 +342,18 @@ function buildHeader(d, site) {
 
 /* ------------------------------------------------------------- 2. tagline */
 
-function buildTagline(site, mode) {
+/**
+ * The one asset that adapts to the reader's theme rather than painting its own
+ * panel, wired up with <picture> in the README — kept as a worked example of
+ * the second approach. Its line deliberately does NOT repeat the counts already
+ * on the header card; it says the thing the numbers do not.
+ */
+function buildTagline(mode) {
   const w = 720;
   const h = 44;
   const accent = mode === "dark" ? "#3FB950" : "#1A7F37";
   const body = mode === "dark" ? "#79C0FF" : "#0A58CA";
-  const line = `${group(site.tools_live)} free tools · no signup · shipped by an autonomous pipeline`;
+  const line = `proposed, built, tested and shipped without me in the loop`;
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"
      role="img" aria-label="${esc(line)}">
   <title>${esc(line)}</title>
@@ -432,7 +445,7 @@ function buildLanguages(d) {
     .map(([name, n], i) => {
       const x = colX[i % 3];
       const y = rowY[Math.floor(i / 3)];
-      const pct = `${((n / total) * 100).toFixed(1)}%`;
+      const pct = `${floor1((n / total) * 100)}%`;
       return `
     <rect x="${x}" y="${y - 12}" width="11" height="11" rx="3" fill="${T.langColors[i % T.langColors.length]}"/>
     <text x="${x + 20}" y="${y - 2}" font-family="${SANS}" font-size="13.5" fill="${T.text}">${esc(name)}</text>
@@ -712,8 +725,8 @@ async function main() {
   // Build everything in memory first — a half-built profile is worse than none.
   const files = {
     "header.svg": buildHeader(d, site),
-    "tagline-dark.svg": buildTagline(site, "dark"),
-    "tagline-light.svg": buildTagline(site, "light"),
+    "tagline-dark.svg": buildTagline("dark"),
+    "tagline-light.svg": buildTagline("light"),
     "stats.svg": buildStats(d),
     "languages.svg": buildLanguages(d),
     "activity.svg": buildActivity(d),

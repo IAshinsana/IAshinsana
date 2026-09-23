@@ -12,13 +12,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IAshinsana/IAshinsana/main/assets/tagline-dark.svg">
-  <img src="https://raw.githubusercontent.com/IAshinsana/IAshinsana/main/assets/tagline-light.svg" alt="Free tools, no signup, shipped by an autonomous pipeline" width="720">
+  <img src="https://raw.githubusercontent.com/IAshinsana/IAshinsana/main/assets/tagline-light.svg" alt="Proposed, built, tested and shipped without me in the loop" width="720">
 </picture>
 
 [![induwara.lk](https://img.shields.io/badge/induwara.lk-visit-2EA44F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://induwara.lk)
 [![Tools](https://img.shields.io/badge/free_tools-browse-1F6FEB?style=for-the-badge&logo=abstract&logoColor=white)](https://induwara.lk/tools)
 [![Blog](https://img.shields.io/badge/articles-read-A371F7?style=for-the-badge&logo=readme&logoColor=white)](https://induwara.lk/blog)
-[![Profile views](https://komarev.com/ghpvc/?username=IAshinsana&style=for-the-badge&color=2EA44F&label=PROFILE+VIEWS)](https://github.com/IAshinsana)
 
 </div>
 
@@ -100,7 +99,8 @@ tool rather than a starred repo — so here is the real shape of the account, st
 
 ## Open-source projects
 
-Selected tools are extracted from the monorepo as standalone, MIT-licensed repos:
+Selected tools are extracted from the monorepo as standalone repos. The five
+libraries are MIT-licensed; the last row is the public index of everything live.
 
 | Repo | What it is |
 | --- | --- |
