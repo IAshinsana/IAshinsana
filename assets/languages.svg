@@ -43,12 +43,12 @@
     </linearGradient>
   </defs>
   <g clip-path="url(#lg-bar)">
-    <rect x="32" y="58" width="373.3" height="20"
-                       fill="#3FB950"><title>PHP 47.2%</title></rect><rect x="405.3" y="58" width="155.7" height="20"
-                       fill="#2F81F7"><title>TypeScript 19.7%</title></rect><rect x="560.9" y="58" width="113.8" height="20"
-                       fill="#A371F7"><title>HTML 14.4%</title></rect><rect x="674.7" y="58" width="78.3" height="20"
-                       fill="#F0A93B"><title>JavaScript 9.9%</title></rect><rect x="753.1" y="58" width="55.3" height="20"
-                       fill="#EC6A5E"><title>CSS 7%</title></rect><rect x="808.4" y="58" width="13.6" height="20"
+    <rect x="32" y="58" width="360.8" height="20"
+                       fill="#3FB950"><title>PHP 45.7%</title></rect><rect x="392.8" y="58" width="150.5" height="20"
+                       fill="#2F81F7"><title>TypeScript 19%</title></rect><rect x="543.3" y="58" width="110" height="20"
+                       fill="#A371F7"><title>HTML 13.9%</title></rect><rect x="653.3" y="58" width="102" height="20"
+                       fill="#F0A93B"><title>JavaScript 12.9%</title></rect><rect x="755.4" y="58" width="53.5" height="20"
+                       fill="#EC6A5E"><title>CSS 6.8%</title></rect><rect x="808.9" y="58" width="13.1" height="20"
                        fill="#2BB3B3"><title>Python 1.7%</title></rect>
     <rect x="32" y="58" width="790" height="20" fill="url(#lg-gloss)"/>
   </g>
@@ -56,26 +56,26 @@
     <rect x="32" y="106" width="11" height="11" rx="3" fill="#3FB950"/>
     <text x="52" y="116" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8EEF9">PHP</text>
     <text x="268" y="116" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5"
-          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">47.2%</text>
+          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">45.6%</text>
     <rect x="300" y="106" width="11" height="11" rx="3" fill="#2F81F7"/>
     <text x="320" y="116" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8EEF9">TypeScript</text>
     <text x="536" y="116" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5"
-          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">19.7%</text>
+          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">19.0%</text>
     <rect x="568" y="106" width="11" height="11" rx="3" fill="#A371F7"/>
     <text x="588" y="116" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8EEF9">HTML</text>
     <text x="804" y="116" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5"
-          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">14.4%</text>
+          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">13.9%</text>
     <rect x="32" y="142" width="11" height="11" rx="3" fill="#F0A93B"/>
     <text x="52" y="152" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8EEF9">JavaScript</text>
     <text x="268" y="152" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5"
-          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">9.9%</text>
+          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">12.9%</text>
     <rect x="300" y="142" width="11" height="11" rx="3" fill="#EC6A5E"/>
     <text x="320" y="152" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8EEF9">CSS</text>
     <text x="536" y="152" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5"
-          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">7.0%</text>
+          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">6.7%</text>
     <rect x="568" y="142" width="11" height="11" rx="3" fill="#2BB3B3"/>
     <text x="588" y="152" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8EEF9">Python</text>
     <text x="804" y="152" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="13.5"
-          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">1.7%</text>
+          fill="#A3B1C9" style="font-variant-numeric:tabular-nums">1.6%</text>
   <text x="32" y="192" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#6B7C99">Byte counts from the GitHub languages API, including older coursework repos — day-to-day work is the TypeScript slice.</text>
 </svg>
