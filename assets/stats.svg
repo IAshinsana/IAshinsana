@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="854" height="168" viewBox="0 0 854 168"
-     role="img" aria-label="GitHub: 13 public repos, 212 contributions in the last year, 6 followers, 3 stars">
+     role="img" aria-label="GitHub: 13 public repos, 214 contributions in the last year, 6 followers, 4 stars">
   <title>GitHub — @IAshinsana</title>
   
   <defs>
@@ -31,7 +31,7 @@
   
   <text x="32" y="38" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700"
         letter-spacing="1.9" fill="#6B7C99">GITHUB — @IASHINSANA</text><text x="822" y="38" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12"
-             fill="#6B7C99">regenerated 5 Oct 2026</text>
+             fill="#6B7C99">regenerated 12 Oct 2026</text>
   <line x1="229.5" y1="62" x2="229.5" y2="130"
                stroke="#161F33" stroke-width="1"/><line x1="427" y1="62" x2="427" y2="130"
                stroke="#161F33" stroke-width="1"/><line x1="624.5" y1="62" x2="624.5" y2="130"
@@ -57,10 +57,10 @@
     </rect>
   </clipPath>
   <text x="328.25" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
-        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">212</text>
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">214</text>
   <text x="328.25" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
         font-weight="700" fill="url(#st-accent)" clip-path="url(#st-wipe1)"
-        style="font-variant-numeric:tabular-nums">212</text>
+        style="font-variant-numeric:tabular-nums">214</text>
   <text x="328.25" y="128" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
         letter-spacing="0.4" fill="#A3B1C9">contributions / year</text>
   <clipPath id="st-wipe2">
@@ -83,10 +83,10 @@
     </rect>
   </clipPath>
   <text x="723.25" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
-        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">3</text>
+        font-weight="700" fill="#E8EEF9" style="font-variant-numeric:tabular-nums">4</text>
   <text x="723.25" y="104" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="38"
         font-weight="700" fill="url(#st-accent)" clip-path="url(#st-wipe3)"
-        style="font-variant-numeric:tabular-nums">3</text>
+        style="font-variant-numeric:tabular-nums">4</text>
   <text x="723.25" y="128" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5"
         letter-spacing="0.4" fill="#A3B1C9">stars</text>
   <text x="32" y="152" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="11.5" fill="#6B7C99">Counted straight from the GitHub REST and GraphQL APIs by scripts/generate-assets.mjs — no third-party widget, no estimate.</text>
